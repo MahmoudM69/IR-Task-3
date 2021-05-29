@@ -10,9 +10,9 @@ To be able to run the server you have to:
         npm intsall
 
     3- Use this command to start the server:
-        npm run start
-        OR
-        node app
+    npm run start
+    OR
+    node app
 
     4- The server should be running on PORT:6969 use this link to open it:
         http://127.0.0.1:6969/

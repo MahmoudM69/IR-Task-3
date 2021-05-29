@@ -7,7 +7,7 @@ To be able to run the server you have to:
     1- Install node.js
 
     2- Install node modules using this command:
-        npm intsall
+    npm intsall
 
     3- Use this command to start the server:
     npm run start

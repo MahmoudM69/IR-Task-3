@@ -1,0 +1,19 @@
+body{ 
+    height:100vh; 
+    margin:0; 
+    display:flex; 
+    flex-direction:column; 
+    color: #666  ;
+}
+.container{
+  margin-bottom: 15px;
+}
+.bol{
+  vertical-align: middle;
+  text-align: center;
+}
+.ms{
+  margin-top: 5%;
+  text-align: center;
+  color: rgb(0 0 0 / 60%);
+}

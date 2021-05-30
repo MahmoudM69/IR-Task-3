@@ -2,7 +2,7 @@
 
 IR Task 3 GUI
 
-You can try the website live (unstable) from here:
+You can try the website live "UNSTABLE" (DO NOT ENTER OR UPLOAD A LARGE DATA) from here:
 	
 	https://dented-boggy-twister.glitch.me/
 	

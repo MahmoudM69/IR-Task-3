@@ -86,7 +86,7 @@
                     initComplete: function () {
                         this.api().columns().every(function () {
                             var column = this;
-                            var select = $('<select  class="browser-default custom-select form-control-sm"><option value="" selected>Search</option></select>')
+                            var select = $('<select  class="browser-default custom-select form-control-sm"><option value="" selected>OR</option></select>')
                                 .appendTo($(column.footer()).empty())
                                 .on('change', function () {
                                     var val = $.fn.dataTable.util.escapeRegex(
@@ -99,7 +99,15 @@
                                 });
 
                             column.data().unique().sort().each(function (d, j) {
-                                select.append('<option value="' + d + '">' + d + '</option>')
+                                if (d == '1') {
+                                    select.append('<option value="' + d + '">' + 'AND' + '</option>')
+                                }
+                                else if (d == '0') {
+                                    select.append('<option value="' + d + '">' + 'NOT' + '</option>')
+                                }
+                                else {
+                                    select.append('<option value="' + d + '">' + d + '</option>')
+                                }
                             });
                         });
                     },

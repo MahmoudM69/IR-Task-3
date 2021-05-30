@@ -2,7 +2,13 @@
 
 IR Task 3 GUI
 
-To be able to run the server you have to:
+You can try the website live (unstable) from here:
+	
+	https://dented-boggy-twister.glitch.me/
+	
+____________________________
+
+To be able to run the server locally you have to:
 
     1- Install node.js
 
@@ -16,6 +22,7 @@ To be able to run the server you have to:
 
     4- The server should be running on PORT:6969 use this link to open it:
         http://127.0.0.1:6969/
+
 
 ps:
 

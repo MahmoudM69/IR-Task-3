@@ -2,7 +2,7 @@
 
 IR Task 3 GUI
 
-You can try the website live "UNSTABLE" (DO NOT ENTER OR UPLOAD A LARGE DATA) from here:
+You can try the website live "UNSTABLE" (DO NOT USE LARGE AMOUNT OF DATA) from here:
 	
 	Website: https://dented-boggy-twister.glitch.me/
 	
@@ -26,7 +26,7 @@ To be able to run the server locally you have to:
         http://127.0.0.1:6969/
 
 
-ps:
+PS:
 
     You can use the text files in the Docs folder for testing
 

@@ -4,7 +4,9 @@ IR Task 3 GUI
 
 You can try the website live "UNSTABLE" (DO NOT ENTER OR UPLOAD A LARGE DATA) from here:
 	
-	https://dented-boggy-twister.glitch.me/
+	Website: https://dented-boggy-twister.glitch.me/
+	
+	Code/Website: https://glitch.com/edit/#!/dented-boggy-twister
 	
 ____________________________
 

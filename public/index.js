@@ -36,6 +36,6 @@ resetBt.addEventListener('click', () => {
     IDocN.value = "";
     DocN.textContent = "Name";
     IDocC.value = "";
-    DocC.textContent = "Doc content";
+    DocC.textContent = "Document content";
     payload = {DocName: "", DocContent: ""};
 });

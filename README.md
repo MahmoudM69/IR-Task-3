@@ -23,7 +23,7 @@ To be able to run the server locally you have to:
     node app
 
     4- The server should be running on PORT:6969 use this link to open it:
-        http://127.0.0.1:6969/
+    http://127.0.0.1:6969/
 
 
 PS:

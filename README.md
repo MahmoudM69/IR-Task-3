@@ -29,18 +29,3 @@ To be able to run the server locally you have to:
 PS:
 
     You can use the text files in the Docs folder for testing
-
-____________________________
-
-Made by:
-
-	* Mahmoud Moahmed A
-	* Marwan Atef A
-
-	* محمود محمد عبد العزيز
-		* قسم: معلوماتية حيوية
-		* رقم جلوس: 103
-
-	* مروان عاطف عبد اللطيف
-		* قسم: معلوماتية حيوية
-		* رقم جلوس: 106
